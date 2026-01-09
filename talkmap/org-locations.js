@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Best Oral Award Presentation<br />2024 European Phase-Change and Ovonic Symposium; Leipzig, Germany",
+    51.3406321,
+    12.3747329
   ],
   [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
@@ -15,8 +15,8 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Oral Presentation at DPG Meeting<br />DPG Meeting of the Condensed Matter Section; Berlin, Germany",
+    52.5173885,
+    13.3951309
   ]
 ];
