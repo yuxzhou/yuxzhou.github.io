@@ -23,7 +23,7 @@ repository               : "https://github.com/yuxzhou"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "YX_Zhou.jpg"
   name             : "Yuxing Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Schmidt AI in Science fellow at University of Oxford"
