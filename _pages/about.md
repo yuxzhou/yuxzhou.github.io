@@ -11,7 +11,7 @@ redirect_from:
 
 Hi! I’m a **Schmidt AI in Science Fellow** at the University of Oxford, working in the groups of Prof. Volker L. Deringer. My research sits at the frontier of "AI for Science," focusing on the intersection of:
 
-* **Machine learning potentials (MLPs) for atomistic modeling** – Developing fast and accurate potentials to bridge the gap between quantum accuracy and device-scale modelling. I build models capable of simulating realistic devices (millions of atoms) to capture complex dynamical processes such as the full "write-erase" cycle of memory devices.
+* **Machine learning interatomic potentials (MLIPs) for atomistic modeling** – Developing fast and accurate potentials to bridge the gap between quantum accuracy and device-scale modelling. I build models capable of simulating realistic devices (millions of atoms) to capture complex dynamical processes such as the full "write-erase" cycle of memory devices.
 * **Computational study of amorphous functional materials** – Uncovering the atomic-scale structural properties of disordered materials. My work combines chemical bonding analysis with atomistic simulations to link the microscopic properties and macroscopic performance of amorphous functional materials.
 * **Generative modelling of amorphous materials** – Leveraging generative AI to explore the vast, complex configurational spaces of disordered solids (such as amorphous oxides). This work aims to accelerate the discovery of structure-property relationships and generate physically meaningful structures at speeds orders of magnitude faster than traditional molecular dynamics simulations.
 
