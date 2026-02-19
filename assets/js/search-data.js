@@ -440,16 +440,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-started-my-position-as-a-postdoctoral-researcher",
+          title: 'I started my position as a Postdoctoral Researcher.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-started-as-a-postdoctoral-research-associate-at-the-university-of-oxford",
+          title: 'I started as a Postdoctoral Research Associate at the University of Oxford.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-started-as-an-associate-research-fellow-at-reuben-college-university-of-oxford",
+          title: 'I started as an Associate Research Fellow at Reuben College, University of Oxford....',
+          description: "",
+          section: "News",},{id: "news-i-started-as-a-schmidt-ai-in-science-research-fellow-at-the-university-of-oxford",
+          title: 'I started as a Schmidt AI in Science Research Fellow at the University...',
+          description: "",
+          section: "News",},{id: "news-one-paper-has-been-accepted-by-nature-communications-congrats-to-all-co-authors",
+          title: 'One paper has been accepted by Nature Communications. Congrats to all co-authors!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -507,13 +511,6 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -521,25 +518,11 @@ ninja.data = [{
           window.open("mailto:%79%75%78%69%6E%67.%7A%68%6F%75@%63%68%65%6D.%6F%78.%61%63.%75%6B", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=e2bnb2cAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=e2bnb2cAAAAJ&hl=en-gb", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -554,13 +537,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/yuxzhou", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
