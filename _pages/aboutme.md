@@ -6,15 +6,8 @@ nav: true
 nav_order: 2
 ---
 
-This is your detailed "About Me" page. 
+I'm joining Xi'an Jiao Tong University as a Professor.
 
-You can write about your background, hobbies, life story, or anything else you'd like to share here.
+I completed my bechelor and master study at [Prof. Wei Zhang's group], Xi'an Jiaotong University, 2018, and 2020 respective. I completed DPhil at [Deringer Group](https://deringer.chem.ox.ac.uk), University of Oxford, 2024. I later became a Research Accosiate at Deringer group, and a [Schmidt AI Fellow](https://saiis.site.ox.ac.uk/our-people) at the University of Oxford. 
 
-### My Journey
 
-Write about your journey here...
-
-### Hobbies
-
-*   Hobby 1
-*   Hobby 2
