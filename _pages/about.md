@@ -23,11 +23,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 I am currently a Schmidt AI Fellow at the University of Oxford. I obtained my DPhil from the Department of Chemistry at the University of Oxford under the supervision of Prof. Volker Deringer. Following my doctoral studies, I continued as a postdoctoral researcher for half a year before commencing my current fellowship.
 
-My research focuses on the intersection of artificial intelligence and chemistry. I spent four years completing my DPhil and have continued to contribute to the academic community at Oxford through my subsequent roles
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research focuses on the intersection of artificial intelligence and chemistry. I spent four years completing my DPhil and have continued to contribute to the academic community at Oxford through my subsequent roles.
+
+I am currently a [Schmidt AI Fellow](https://saiis.site.ox.ac.uk/our-people).
+
