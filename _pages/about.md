@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: <a href='https://www.chem.ox.ac.uk/'>Schmidt AI Fellow</a>. University of Oxford.
 
@@ -27,9 +27,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am currently a Schmidt AI Fellow at the University of Oxford. I obtained my DPhil from the Department of Chemistry at the University of Oxford under the supervision of Prof. Volker Deringer. Following my doctoral studies, I continued as a postdoctoral researcher for half a year before commencing my current fellowship.
+I am currently a [**Schmidt AI Fellow**](https://saiis.site.ox.ac.uk/our-people) at the University of Oxford. I obtained my DPhil from the Department of Chemistry at the University of Oxford under the supervision of [**Prof. Volker Deringer**](https://deringer.chem.ox.ac.uk). Following my doctoral studies, I continued as a postdoctoral researcher for half a year before commencing my current fellowship.
 
 My research focuses on the intersection of artificial intelligence and chemistry. I spent four years completing my DPhil and have continued to contribute to the academic community at Oxford through my subsequent roles.
-
-I am currently a [Schmidt AI Fellow](https://saiis.site.ox.ac.uk/our-people).
 
