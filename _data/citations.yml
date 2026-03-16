@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-25'
+  last_updated: '2026-03-16'
 papers:
   e2bnb2cAAAAJ:0EnyYjriUFMC:
-    citations: 115
+    citations: 123
     title: Device-scale atomistic modelling of phase-change memory materials
     year: '2023'
   e2bnb2cAAAAJ:2osOgNQ5qMEC:
-    citations: 634
+    citations: 638
     title: Reducing the stochasticity of crystal nucleation to enable subnanosecond memory writing
     year: '2017'
   e2bnb2cAAAAJ:3fE2CSJIrl8C:
@@ -30,7 +30,7 @@ papers:
     title: Enhancing thermoelectric performance of Sb2Te3 through swapped bilayer defects
     year: '2021'
   e2bnb2cAAAAJ:KlAtU1dfN6UC:
-    citations: 21
+    citations: 22
     title: An automated framework for exploring and learning potential-energy surfaces
     year: '2025'
   e2bnb2cAAAAJ:LkGwnXOMwfcC:
@@ -38,7 +38,7 @@ papers:
     title: Unlocking device-scale atomistic modelling of phase-change memory materials
     year: '2022'
   e2bnb2cAAAAJ:MXK_kJrjxJIC:
-    citations: 9
+    citations: 10
     title: Hyperparameter optimization for atomic cluster expansion potentials
     year: '2024'
   e2bnb2cAAAAJ:Tyk-4Ss8FVUC:
@@ -50,7 +50,7 @@ papers:
     title: Studies of phase-change memory materials using machine-learned interatomic potentials
     year: '2024'
   e2bnb2cAAAAJ:UeHWp8X0CEIC:
-    citations: 13
+    citations: 14
     title: "Structure and Dynamics of Supercooled Liquid Ge2Sb2Te5 from Machine\u2010Learning\u2010Driven Simulations"
     year: '2021'
   e2bnb2cAAAAJ:UebtZRa9Y70C:
@@ -58,23 +58,23 @@ papers:
     title: Struktur und Bindung im amorphen roten Phosphor
     year: '2023'
   e2bnb2cAAAAJ:WF5omc3nYNoC:
-    citations: 24
+    citations: 25
     title: Cluster fragments in amorphous phosphorus and their evolution under pressure
     year: '2022'
   e2bnb2cAAAAJ:Y0pCki6q_DkC:
-    citations: 72
+    citations: 73
     title: Ab initio molecular dynamics and materials design for embedded phase-change memory
     year: '2021'
   e2bnb2cAAAAJ:YOwf2qJgpHMC:
     citations: 1
     title: Medium-range structural order in amorphous arsenic
-    year: '2025'
+    year: '2026'
   e2bnb2cAAAAJ:Zph67rFs4hoC:
     citations: 0
     title: Hyperparameter Optimization for Atomic Cluster Expansion Potentials
     year: '2024'
   e2bnb2cAAAAJ:_FxGoFyzp5QC:
-    citations: 61
+    citations: 63
     title: "Unraveling crystallization mechanisms and electronic structure of phase\u2010change materials by large\u2010scale ab initio simulations"
     year: '2022'
   e2bnb2cAAAAJ:d1gkVwhDpl0C:
@@ -98,7 +98,7 @@ papers:
     title: 'autoatml/papers-autoplex-rss: v1. 0.0'
     year: '2025'
   e2bnb2cAAAAJ:roLk4NBRz8UC:
-    citations: 25
+    citations: 27
     title: Structure and bonding in amorphous red phosphorus
     year: '2023'
   e2bnb2cAAAAJ:u-x6o8ySG0sC:
@@ -106,7 +106,7 @@ papers:
     title: "Chemical understanding of resistance drift suppression in Ge\u2013Sn\u2013Te phase-change memory materials"
     year: '2020'
   e2bnb2cAAAAJ:u5HHmVD_uO8C:
-    citations: 439
+    citations: 442
     title: Phase-change heterostructure enables ultralow noise and drift for memory operation
     year: '2019'
   e2bnb2cAAAAJ:ufrVoPGSRksC:
