@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-01'
 papers:
   e2bnb2cAAAAJ:0EnyYjriUFMC:
-    citations: 127
+    citations: 128
     title: Device-scale atomistic modelling of phase-change memory materials
     year: '2023'
   e2bnb2cAAAAJ:2osOgNQ5qMEC:
@@ -30,7 +30,7 @@ papers:
     title: Enhancing thermoelectric performance of Sb2Te3 through swapped bilayer defects
     year: '2021'
   e2bnb2cAAAAJ:KlAtU1dfN6UC:
-    citations: 23
+    citations: 26
     title: An automated framework for exploring and learning potential-energy surfaces
     year: '2025'
   e2bnb2cAAAAJ:LkGwnXOMwfcC:
@@ -66,7 +66,7 @@ papers:
     title: Ab initio molecular dynamics and materials design for embedded phase-change memory
     year: '2021'
   e2bnb2cAAAAJ:YOwf2qJgpHMC:
-    citations: 1
+    citations: 2
     title: Medium-range structural order in amorphous arsenic
     year: '2026'
   e2bnb2cAAAAJ:Zph67rFs4hoC:
