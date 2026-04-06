@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-04-06'
 papers:
   e2bnb2cAAAAJ:0EnyYjriUFMC:
-    citations: 128
+    citations: 129
     title: Device-scale atomistic modelling of phase-change memory materials
     year: '2023'
   e2bnb2cAAAAJ:2osOgNQ5qMEC:
-    citations: 642
+    citations: 643
     title: Reducing the stochasticity of crystal nucleation to enable subnanosecond memory writing
     year: '2017'
   e2bnb2cAAAAJ:3fE2CSJIrl8C:
@@ -14,7 +14,7 @@ papers:
     title: The pathway to chirality in elemental tellurium
     year: '2024'
   e2bnb2cAAAAJ:4TOpqqG69KYC:
-    citations: 5
+    citations: 6
     title: Full-cycle device-scale simulations of memory materials with a tailored atomic-cluster-expansion potential
     year: '2025'
   e2bnb2cAAAAJ:8k81kl-MbHgC:
@@ -30,7 +30,7 @@ papers:
     title: Enhancing thermoelectric performance of Sb2Te3 through swapped bilayer defects
     year: '2021'
   e2bnb2cAAAAJ:KlAtU1dfN6UC:
-    citations: 26
+    citations: 27
     title: An automated framework for exploring and learning potential-energy surfaces
     year: '2025'
   e2bnb2cAAAAJ:LkGwnXOMwfcC:
@@ -66,7 +66,7 @@ papers:
     title: Ab initio molecular dynamics and materials design for embedded phase-change memory
     year: '2021'
   e2bnb2cAAAAJ:YOwf2qJgpHMC:
-    citations: 2
+    citations: 3
     title: Medium-range structural order in amorphous arsenic
     year: '2026'
   e2bnb2cAAAAJ:Zph67rFs4hoC:
