@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-04-24'
 papers:
   e2bnb2cAAAAJ:0EnyYjriUFMC:
-    citations: 131
+    citations: 132
     title: Device-scale atomistic modelling of phase-change memory materials
     year: '2023'
   e2bnb2cAAAAJ:2osOgNQ5qMEC:
-    citations: 643
+    citations: 649
     title: Reducing the stochasticity of crystal nucleation to enable subnanosecond memory writing
     year: '2017'
   e2bnb2cAAAAJ:3fE2CSJIrl8C:
@@ -14,7 +14,7 @@ papers:
     title: The pathway to chirality in elemental tellurium
     year: '2024'
   e2bnb2cAAAAJ:4TOpqqG69KYC:
-    citations: 9
+    citations: 10
     title: Full-cycle device-scale simulations of memory materials with a tailored atomic-cluster-expansion potential
     year: '2025'
   e2bnb2cAAAAJ:8k81kl-MbHgC:
@@ -30,7 +30,7 @@ papers:
     title: Enhancing thermoelectric performance of Sb2Te3 through swapped bilayer defects
     year: '2021'
   e2bnb2cAAAAJ:KlAtU1dfN6UC:
-    citations: 27
+    citations: 28
     title: An automated framework for exploring and learning potential-energy surfaces
     year: '2025'
   e2bnb2cAAAAJ:LkGwnXOMwfcC:
@@ -42,7 +42,7 @@ papers:
     title: Hyperparameter optimization for atomic cluster expansion potentials
     year: '2024'
   e2bnb2cAAAAJ:Tyk-4Ss8FVUC:
-    citations: 63
+    citations: 64
     title: "Materials screening for disorder\u2010controlled chalcogenide crystals for phase\u2010change memory applications"
     year: '2021'
   e2bnb2cAAAAJ:ULOm3_A8WrAC:
@@ -106,7 +106,7 @@ papers:
     title: "Chemical understanding of resistance drift suppression in Ge\u2013Sn\u2013Te phase-change memory materials"
     year: '2020'
   e2bnb2cAAAAJ:u5HHmVD_uO8C:
-    citations: 445
+    citations: 446
     title: Phase-change heterostructure enables ultralow noise and drift for memory operation
     year: '2019'
   e2bnb2cAAAAJ:ufrVoPGSRksC:
