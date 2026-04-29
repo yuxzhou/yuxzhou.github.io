@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-04-29'
 papers:
   e2bnb2cAAAAJ:0EnyYjriUFMC:
-    citations: 132
+    citations: 133
     title: Device-scale atomistic modelling of phase-change memory materials
     year: '2023'
   e2bnb2cAAAAJ:2osOgNQ5qMEC:
-    citations: 649
+    citations: 650
     title: Reducing the stochasticity of crystal nucleation to enable subnanosecond memory writing
     year: '2017'
   e2bnb2cAAAAJ:3fE2CSJIrl8C:
@@ -22,7 +22,7 @@ papers:
     title: "Homopolar Chemical Bonds Induce In\u2010Plane Anisotropy in Layered Semiconductors"
     year: '2024'
   e2bnb2cAAAAJ:9yKSN-GCB0IC:
-    citations: 36
+    citations: 37
     title: In situ study of vacancy disordering in crystalline phase-change materials under electron beam irradiation
     year: '2020'
   e2bnb2cAAAAJ:IjCSPb-OGe4C:
@@ -30,7 +30,7 @@ papers:
     title: Enhancing thermoelectric performance of Sb2Te3 through swapped bilayer defects
     year: '2021'
   e2bnb2cAAAAJ:KlAtU1dfN6UC:
-    citations: 28
+    citations: 29
     title: An automated framework for exploring and learning potential-energy surfaces
     year: '2025'
   e2bnb2cAAAAJ:LkGwnXOMwfcC:
@@ -42,7 +42,7 @@ papers:
     title: Hyperparameter optimization for atomic cluster expansion potentials
     year: '2024'
   e2bnb2cAAAAJ:Tyk-4Ss8FVUC:
-    citations: 64
+    citations: 66
     title: "Materials screening for disorder\u2010controlled chalcogenide crystals for phase\u2010change memory applications"
     year: '2021'
   e2bnb2cAAAAJ:ULOm3_A8WrAC:
@@ -66,7 +66,7 @@ papers:
     title: Ab initio molecular dynamics and materials design for embedded phase-change memory
     year: '2021'
   e2bnb2cAAAAJ:YOwf2qJgpHMC:
-    citations: 3
+    citations: 5
     title: Medium-range structural order in amorphous arsenic
     year: '2026'
   e2bnb2cAAAAJ:Zph67rFs4hoC:
@@ -98,7 +98,7 @@ papers:
     title: 'autoatml/papers-autoplex-rss: v1. 0.0'
     year: '2025'
   e2bnb2cAAAAJ:roLk4NBRz8UC:
-    citations: 27
+    citations: 28
     title: Structure and bonding in amorphous red phosphorus
     year: '2023'
   e2bnb2cAAAAJ:u-x6o8ySG0sC:
@@ -106,11 +106,11 @@ papers:
     title: "Chemical understanding of resistance drift suppression in Ge\u2013Sn\u2013Te phase-change memory materials"
     year: '2020'
   e2bnb2cAAAAJ:u5HHmVD_uO8C:
-    citations: 446
+    citations: 447
     title: Phase-change heterostructure enables ultralow noise and drift for memory operation
     year: '2019'
   e2bnb2cAAAAJ:ufrVoPGSRksC:
-    citations: 21
+    citations: 22
     title: Bonding nature and optical contrast of TiTe2/Sb2Te3 phase-change heterostructure
     year: '2021'
   e2bnb2cAAAAJ:zYLM7Y9cAGgC:
