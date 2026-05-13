@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-29'
+  last_updated: '2026-05-13'
 papers:
   e2bnb2cAAAAJ:0EnyYjriUFMC:
     citations: 133
     title: Device-scale atomistic modelling of phase-change memory materials
     year: '2023'
   e2bnb2cAAAAJ:2osOgNQ5qMEC:
-    citations: 650
+    citations: 657
     title: Reducing the stochasticity of crystal nucleation to enable subnanosecond memory writing
     year: '2017'
   e2bnb2cAAAAJ:3fE2CSJIrl8C:
@@ -26,11 +26,11 @@ papers:
     title: In situ study of vacancy disordering in crystalline phase-change materials under electron beam irradiation
     year: '2020'
   e2bnb2cAAAAJ:IjCSPb-OGe4C:
-    citations: 58
+    citations: 59
     title: Enhancing thermoelectric performance of Sb2Te3 through swapped bilayer defects
     year: '2021'
   e2bnb2cAAAAJ:KlAtU1dfN6UC:
-    citations: 29
+    citations: 30
     title: An automated framework for exploring and learning potential-energy surfaces
     year: '2025'
   e2bnb2cAAAAJ:LkGwnXOMwfcC:
@@ -42,7 +42,7 @@ papers:
     title: Hyperparameter optimization for atomic cluster expansion potentials
     year: '2024'
   e2bnb2cAAAAJ:Tyk-4Ss8FVUC:
-    citations: 66
+    citations: 65
     title: "Materials screening for disorder\u2010controlled chalcogenide crystals for phase\u2010change memory applications"
     year: '2021'
   e2bnb2cAAAAJ:ULOm3_A8WrAC:
@@ -82,7 +82,7 @@ papers:
     title: "Chemical design principles for cache-type Sc\u2013Sb\u2013Te phase-change memory materials"
     year: '2019'
   e2bnb2cAAAAJ:eQOLeE2rZwMC:
-    citations: 23
+    citations: 24
     title: "Change in structure of amorphous Sb\u2013Te phase\u2010change materials as a function of stoichiometry"
     year: '2021'
   e2bnb2cAAAAJ:hqOjcs7Dif8C:
@@ -106,7 +106,7 @@ papers:
     title: "Chemical understanding of resistance drift suppression in Ge\u2013Sn\u2013Te phase-change memory materials"
     year: '2020'
   e2bnb2cAAAAJ:u5HHmVD_uO8C:
-    citations: 447
+    citations: 450
     title: Phase-change heterostructure enables ultralow noise and drift for memory operation
     year: '2019'
   e2bnb2cAAAAJ:ufrVoPGSRksC:
