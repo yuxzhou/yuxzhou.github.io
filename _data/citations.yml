@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-06-19'
 papers:
   e2bnb2cAAAAJ:0EnyYjriUFMC:
     citations: 143
     title: Device-scale atomistic modelling of phase-change memory materials
     year: '2023'
   e2bnb2cAAAAJ:2osOgNQ5qMEC:
-    citations: 666
+    citations: 667
     title: Reducing the stochasticity of crystal nucleation to enable subnanosecond memory writing
     year: '2017'
   e2bnb2cAAAAJ:3fE2CSJIrl8C:
@@ -26,7 +26,7 @@ papers:
     title: In situ study of vacancy disordering in crystalline phase-change materials under electron beam irradiation
     year: '2020'
   e2bnb2cAAAAJ:IjCSPb-OGe4C:
-    citations: 60
+    citations: 61
     title: Enhancing thermoelectric performance of Sb2Te3 through swapped bilayer defects
     year: '2021'
   e2bnb2cAAAAJ:KlAtU1dfN6UC:
@@ -38,7 +38,7 @@ papers:
     title: Unlocking device-scale atomistic modelling of phase-change memory materials
     year: '2022'
   e2bnb2cAAAAJ:MXK_kJrjxJIC:
-    citations: 11
+    citations: 12
     title: Hyperparameter optimization for atomic cluster expansion potentials
     year: '2024'
   e2bnb2cAAAAJ:Tyk-4Ss8FVUC:
